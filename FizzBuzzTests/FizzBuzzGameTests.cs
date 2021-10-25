@@ -11,6 +11,7 @@ namespace FizzBuzzTests
             var order = 3;
             var report = FizzBuzzGame.Report(order);
             Assert.Equal("Fizz", report);
+            
         }
     }
 }
