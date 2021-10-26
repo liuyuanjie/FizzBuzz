@@ -1,9 +1,10 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=24168845_002D9cde_002D4193_002Da848_002D275d54b945a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_Report_Fizz_When_Reporting_Given_Contains_3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=24168845_002D9cde_002D4193_002Da848_002D275d54b945a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Report_Fizz_When_Reporting_Given_Contains_3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::5830D83F-41B4-4D67-BBB8-44482ACCE188::net5.0::FizzBuzzTests.FizzBuzzGameTest.Should_Report_Fizz_When_Reporting_Given_Contains_3&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5830D83F-41B4-4D67-BBB8-44482ACCE188::net5.0::FizzBuzzTests.FizzBuzzGameTest.Should_Report_Fizz_When_Reporting_Given_Divide_3&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=591af41c_002D3bff_002D48a1_002Da045_002D38508ea7d65d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;FizzBuzzTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=591af41c_002D3bff_002D48a1_002Da045_002D38508ea7d65d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;FizzBuzzTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;Project Location="/Users/liuyuanjie/RiderProjects/FizzBuzz/FizzBuzzTests" Presentation="&amp;lt;FizzBuzzTests&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
